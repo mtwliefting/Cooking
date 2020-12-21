@@ -1,0 +1,99 @@
+{
+  "data": {
+    "food": [
+      {
+        "name": "Butter Chicken",
+        "about": {
+          "country": "india",
+          "history": "https://en.wikipedia.org/wiki/Butter_chicken",
+          "ref_url": "studio-lebeat-pr-pappa-shotgun-rararadio-16-12-2020"
+        },
+        "bereiding": {
+          "step1": "Meng kip zout ginger/garlic chilli poeder samen en laat het minstens 20min in de ijskast marineren.",
+          "step2": "Bak de kip in een pan en doe het erna in een andere bak.",
+          "step3": "Snij ui in schijven en bak tot doorzichtig.",
+          "step4": "Voeg cashewnoten toe.",
+          "step5": "Voeg ginger/garlic toe.",
+          "step6": "Voeg niet te veel chilli poeder en garamasala.",
+          "step7": "Voeg zout toe.",
+          "step8": "Snij tomaten grofweg en voeg het aan de pan toe.",
+          "step9": "Voeg een kleine scheut milde azijn toe.",
+          "step10": "Laat het 25min rustig doorkoken.",
+          "step11": "Puree de boel en zeef het erna.",
+          "step12": "Voeg boter aan de saus toe en doe dan de kip erbij.",
+          "step13": "Laat dit nog 5min door suderen."
+        },
+        "ingredients": {
+          "marinade": {
+            "kip": "1kg",
+            "chilli": "3 eetlepels",
+            "zout": "3 eetlepels",
+            "ginger garlic": "5 theelepels"
+          },
+          "saus": {
+            "uien": "5 stuks",
+            "cashew noten": "5 eetlepels",
+            "tomaten": "5 stuks",
+            "ginger garlic": "5 theelepels",
+            "chilli": "2.5 eetlepels",
+            "graram massala": "1.5 eetlepels",
+            "boter": "3 eetlepel"
+          }
+        }
+      },
+      {
+        "name": "Garlic Naan",
+        "about": {
+          "country": "india",
+          "history": "https://en.wikipedia.org/wiki/Naan",
+          "ref_url": "https://www.youtube.com/watch?v=WCnUZ7wqzgc"
+        },
+        "bereiding": {
+          "step1": "Mix lauw water met 2 theelepels suikers met een zakje gedroogde gist.",
+          "step2": "Laat 15min laten in weken.",
+          "step3": "Doe meel in een kom voeg er zout aan toe en de baking powder.",
+          "step4": "Maak een keultje in het meel giet water/gist in het kuiltje.",
+          "step5": "Roer om tot al het vocht verdwenen is. Laat 2 min staan.",
+          "step6": "Kneed 10min deeg zachtjes door. En laat het rijzen voor 1 uur.",
+          "step7": "Bak de Naans af in 10min in de oven op 180C."
+        },
+        "ingredients": {
+          "water": "0.4L lauw",
+          "suikers": "2 theelepels",
+          "meel": "600gram",
+          "zout": "1 theelepel",
+          "baking powder": "1/2 theelepel"
+        }
+      },
+      {
+        "name": "No Knead bread",
+        "about": {
+          "country": "",
+          "history": "",
+          "video": "https://vp.nyt.com/video/2006/11/08/1218_1_bread_wg_hls/video.m3u8",
+          "ref_url": "https://cooking.nytimes.com/recipes/11376-no-knead-bread"
+        },
+        "bereiding": {
+          "step1": "Mix alle droge ingredienten door elkaar.",
+          "step2": "Doe al het water erbij roer voor een paar sec tot alles aan elkaar zit.",
+          "step3": "Sluit met een natte theedoek en deksel de kom.",
+          "step4": "Wacht 24 uur.",
+          "step5": "Warm de oven tot 220C 30min voor en zet een gietijzeren pan met deksel erin",
+          "step6": "Bak het deeg in de pan voor 30min.",
+          "step7": "Haal de deksel eraf en laat nog 10min dorbakken."
+        },
+        "ingredients": {
+          "water": "1.5 cup lauw",
+          "gist": "gedroogd 1/4 theelepel",
+          "meel": "360gram / 3 cups",
+          "zout": "1 theelepel"
+        }
+      }
+    ],
+    "non-food": [
+      {
+        "var": 1
+      }
+    ]
+  }
+}
