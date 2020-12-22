@@ -88,7 +88,39 @@
           "meel": "360gram / 3 cups",
           "zout": "1 theelepel"
         }
-      }
+      },
+      {
+  "name": "36 hour sous vide porchetta",
+  "about": {
+    "auteur": "",
+    "country": "",
+    "history": "",
+    "ref_url": "https://www.seriouseats.com/recipes/2011/12/the-food-lab-deep-fried-sous-vide-36-hour-all-belly-porchetta.html"
+  },
+  "bereiding": {
+    "step1": "Place pork belly skin-side down on a large cutting board. Using a sharp chef's knife, score flesh at an angle using strokes about 1-inch apart. Rotate knife 90 degrees and repeat to create a diamond pattern in the flesh",
+    "step2": "Toast peppercorns and fennel seed in a small skillet over medium-high heat until lightly browned and aromatic, about 2 minutes. Transfer to a mortar and pestle or spice grinder and grind until roughly crushed.",
+    "step3": "Season pork liberally with salt then sprinkle with crushed pepper and fennel, red pepper, chopped herbs, and microplaned garlic. Use your hands to rub the mixture deeply into the cracks and crevices in the meat.",
+    "step4": "Roll belly into a tight log and push to top of cutting board, seam-side down. Cut 12 to 18 lengths of kitchen twine long enough to tie around the pork and lay them down in regular intervals along your cutting board, about 1-inch apart each. Lay rolled pork seam-side down on top of strings. Working from the outermost strings towards the center, tie up roast tightly. Combine 2 tablespoons kosher salt with 1 teaspoon baking powder. Rub mixture over entire surface of porchetta.",
+    "step5": "If roast is too large and unwieldy, carefully slice in half with a sharp chef's knife. Seal in individual vacuum-sealed pouches and refrigerate at least overnight and up to three days. If desired, porchetta can also be frozen at this point for future use (see note)",
+    "step6": "Preheat sous-vide water cooker to 155°F (68.3°C). Add pork and cook for 36 hours. Transfer pork to a sink filled with ice water and chill for 15 minutes. Remove from bag then carefully peel off congealed exuded cooking liquid and place in a medium saucepan.",
+    "step7": "Rinse porchetta under hot running water until all excess fat and congealed juices are cleared from surface, then carefully dry with paper towels.",
+    "step8": "Heat oil over high heat in a large wok or Dutch oven to 400°F. Carefully slide pork into oil using spatulas and tongs. (It will not be fully submerged). Immediately cover and cook, shaking the pan occasionally until sputtering dies a bit, about 2 minutes. Adjust flame to maintain consistent 350°F temperature. Using a large metal ladle, spoon hot oil over the exposed portions of the roast continuously until the bottom half is cooked and crisp, about 5 minutes. Carefully flip and cook on second side, basting the whole time.",
+    "step9": "Remove porchetta to a large paper towel-lined plate and blot all over. Season with salt. Let rest 5 minutes. Meanwhile, heat bag juices over medium-high heat until simmering. Add the butter and swirl until smooth. If center of pork is still hot, carve and serve immediately. Otherwise, transfer to a 250°F oven until warmed through, then serve."
+  },
+  "ingredients": {
+    "pork": "1 whole boneless, rind-on pork belly, about 12 to 15 pounds",
+    "black peppercorns": "2 tablespoons whole ",
+    "fennel": "3 tablespoons whole seed",
+    "red pepper": "1 tablespoon crushed ",
+    "rosemary|sage|thyme-leaves": "3 tablespoons finely chopped",
+    "cloves garlic": "12 grated on a microplane grater",
+    "salt": "Kosher salt",
+    "baking powder": "2 teaspoons",
+    "peanut oil": "2 quarts , lard, or a mixture (canola or vegetable oil will do fine)",
+    "butter": "2 tablespoons unsalted"
+  }
+}
     ],
     "non-food": [
       {
